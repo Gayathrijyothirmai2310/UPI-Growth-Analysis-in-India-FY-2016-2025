@@ -37,8 +37,6 @@ Evaluate the impact of COVID-19 on digital payment adoption.
 Identify long-term trends in India's digital payment ecosystem.
 Author
 
-Your GitHub Name
-
-Project Type
+Gayathri Jyothirmai
 
 Data Analytics | Power BI | DAX | Financial Analysis
